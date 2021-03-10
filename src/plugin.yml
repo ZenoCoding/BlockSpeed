@@ -1,0 +1,9 @@
+name: BlockSpeed
+version: 2.0
+author: Tycho
+main: me.tycho.BlockSpeed.Main
+description: Every time you break a certain amount of blocks, you get the speed effect!
+
+commands:
+  bs:
+    description: /bs start to start the mechanic and /bs stop to stop the mechanic
